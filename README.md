@@ -1,1 +1,0 @@
-# react-auth0-playground
